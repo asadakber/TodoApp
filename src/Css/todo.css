@@ -1,0 +1,47 @@
+.container {
+    margin-top: 50px;
+}
+
+.btn {
+    border: solid 1px white;
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+
+}
+
+.btn:focus {
+    border: solid 1px white;
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+
+}
+
+.btn:hover {
+    border: solid 1px white;
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+
+}
+
+h2 {
+    color: white;
+}
+
+.form-control {
+    background-color: transparent;
+    border: solid 1px white;
+}
+
+.form-control:focus {
+    background-color: transparent;
+    border: solid 1px white;
+}
+
+.form-control:hover {
+    background-color: transparent;
+    border: solid 1px white;
+}
+
